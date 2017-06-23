@@ -7,4 +7,4 @@ Run the Serial.deserialize() method, which returns an array of accounts from the
 
 Run the Serial.serialize() method, which takes one parameter an Account array, to save the accounts to for the next usage.
 
-In order to email you must add the jar file: https://javaee.github.io/javamail/
+In order to email you must add the javax.mail.jar file: https://javaee.github.io/javamail/
